@@ -5,7 +5,7 @@
 
 Skills: C++, Python, MATLAB, PLC, Autodesk Inventor, Keyshot
 
-- 🔭 I’m currently working on Image Processing and Computer Vision 
+- 🔭 I’m currently working on Image Processing and Pattern Recognition
 - 🌱 I’m currently learning ROS2 and tensorflow 
 - 👯 I’m looking to collaborate on Robot design and development 
 - 🤔 I’m looking for help with OpenFoam-C++ 
