@@ -22,3 +22,5 @@ Skills: C++, Python, MATLAB, PLC, Autodesk Inventor, Keyshot
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=4rchB1sh0p&show_icons=true&count_private=true)  
 
 
+<div class="github-widget" data-username="surbhioberoi"></div>
+<script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script>
