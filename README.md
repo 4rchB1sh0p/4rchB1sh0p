@@ -23,7 +23,7 @@ Skills: C++, Python, MATLAB, PLC, Autodesk Inventor, Keyshot
 
 
 
-### Hi there 👋  I'm Aishwarya Nevrekar ✨
+### Hi there 👋  I'm Yashodhar Mahajan ✨
  ![](https://komarev.com/ghpvc/?username=aishwaryanevrekar&color=green)  
 
 ## 👨🏻‍💻 &nbsp; About Me
