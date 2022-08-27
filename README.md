@@ -63,7 +63,7 @@ Skills: C++, Python, MATLAB, PLC, Autodesk Inventor, Keyshot
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aishwaryanevrekar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aishwaryanevrekar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nevrekaraishwa2)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aishwaryanevrekar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/4rchB1sh0p)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yashodhar03)  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -76,7 +76,7 @@ Skills: C++, Python, MATLAB, PLC, Autodesk Inventor, Keyshot
 
 ### ⚙️ &nbsp;GitHub Activity Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aishwaryanevrekar)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=4rchB1sh0p)  
 
 <!--
 **aishwaryanevrekar/aishwaryanevrekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
