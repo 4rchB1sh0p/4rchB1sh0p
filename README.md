@@ -5,10 +5,10 @@
 
 
 ## 👨🏻‍💻 &nbsp; About Me
-- 🔭 I’m currently working on python 
-- 🌱 I’m currently learning machine learning
-- 👯 I’m looking to collaborate on data science and machine learning projects
-- 💬 Ask me about coding,content and commmunity ( 3 C's)
+- 🔭 I’m currently working on PHP web tools used in manufacturing plants
+- 🌱 I’m currently learning MERN tech stack
+- 👯 I’m looking to collaborate on factory automation projects
+- 💬 Ask me about how to learn PLC programming
 
 ### 🛠 &nbsp; Tech Stack
 
